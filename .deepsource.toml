@@ -1,6 +1,6 @@
 version = 1
 
-exclude_patterns = ["Pods/*"]
+exclude_patterns = ["Pods/**"]
 
 [[analyzers]]
 name = "ruby"
